@@ -30,6 +30,7 @@
     "jest": "^26.1.0",
     "nodemon": "^2.0.4",
     "prettier": "^2.0.5",
+    "vue-cli-plugin-pug": "~1.0.7",
     "vue-jest": "^3.0.4"
   }
 }
